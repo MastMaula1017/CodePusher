@@ -3,14 +3,14 @@ public:
     int smallestNumber(int n, int t) {
 
         while (true) {
-            int org = n;
+            int orginal = n;
             vector<int> ans;
 
             // Store digits
-            while (org) {
-                int x = org % 10;
+            while (orginal) {
+                int x = orginal % 10;
                 ans.push_back(x);
-                org /= 10;
+                orginal /= 10;
             }
 
             int p = 1;
