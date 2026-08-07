@@ -1,6 +1,6 @@
 // Problem: 2677. Chunk Array
 // Runtime: 39 ms (Beats 88.74%)
-// Memory: 55.9 MB (Beats 67.63%)
+// Memory: 57.4 MB (Beats 18.98%)
 
 /**
  * @param {Array} arr
