@@ -3,8 +3,8 @@
 **Difficulty:** 🟢 Easy
 
 ### 🚀 Performance
-- **Runtime:** `39 ms` (Beats `88.74%` of users)
-- **Memory:** `57.4 MB` (Beats `18.98%` of users)
+- **Runtime:** `54 ms` (Beats `19.78%` of users)
+- **Memory:** `55.9 MB` (Beats `74.02%` of users)
 
 ### 📝 Problem Description
 
