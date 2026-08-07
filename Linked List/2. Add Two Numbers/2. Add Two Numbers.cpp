@@ -1,6 +1,6 @@
 // Problem: 2. Add Two Numbers
-// Runtime: 0 ms (Beats 100.00%)
-// Memory: 77.2 MB (Beats 13.20%)
+// Runtime: 3 ms (Beats 34.20%)
+// Memory: 77.2 MB (Beats 46.71%)
 
 class Solution {
 public:
