@@ -1,5 +1,5 @@
 // Problem: 2. Add Two Numbers
-// Runtime: 0 ms (Beats 100.00%)
+// Runtime: 3 ms (Beats 34.20%)
 // Memory: 77.3 MB (Beats 13.20%)
 
 class Solution {
