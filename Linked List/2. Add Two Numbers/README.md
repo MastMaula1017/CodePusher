@@ -4,7 +4,7 @@
 **Topics:** `Linked List`, `Math`, `Recursion`
 
 ### 🚀 Performance
-- **Runtime:** `3 ms` (Beats `34.20%` of users)
+- **Runtime:** `0 ms` (Beats `100.00%` of users)
 - **Memory:** `77.2 MB` (Beats `46.71%` of users)
 
 ### 📝 Problem Description
