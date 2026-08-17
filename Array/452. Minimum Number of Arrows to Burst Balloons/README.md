@@ -4,7 +4,7 @@
 **Topics:** `Array`, `Greedy`, `Sorting`
 
 ### 🚀 Performance
-- **Runtime:** `40 ms` (Beats `87.70%` of users)
+- **Runtime:** `49 ms` (Beats `50.22%` of users)
 - **Memory:** `94 MB` (Beats `56.85%` of users)
 
 ### 📝 Problem Description
