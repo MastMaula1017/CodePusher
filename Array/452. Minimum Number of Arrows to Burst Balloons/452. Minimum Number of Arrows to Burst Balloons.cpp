@@ -1,5 +1,5 @@
 // Problem: 452. Minimum Number of Arrows to Burst Balloons
-// Runtime: 40 ms (Beats 87.70%)
+// Runtime: 49 ms (Beats 50.22%)
 // Memory: 94 MB (Beats 56.85%)
 
 #include <bits/stdc++.h>
