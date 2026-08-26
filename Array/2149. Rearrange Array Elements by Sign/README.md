@@ -4,8 +4,8 @@
 **Topics:** `Array`, `Two Pointers`, `Simulation`
 
 ### 🚀 Performance
-- **Runtime:** `10 ms` (Beats `31.13%` of users)
-- **Memory:** `145.2 MB` (Beats `6.93%` of users)
+- **Runtime:** `4 ms` (Beats `77.53%` of users)
+- **Memory:** `128.2 MB` (Beats `95.44%` of users)
 
 ### 📝 Problem Description
 
