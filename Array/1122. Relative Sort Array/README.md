@@ -4,8 +4,8 @@
 **Topics:** `Array`, `Hash Table`, `Sorting`, `Counting Sort`, `Quicksort`, `Bubble Sort`
 
 ### 🚀 Performance
-- **Runtime:** `4 ms` (Beats `6.14%` of users)
-- **Memory:** `11 MB` (Beats `85.84%` of users)
+- **Runtime:** `0 ms` (Beats `100.00%` of users)
+- **Memory:** `11.2 MB` (Beats `19.66%` of users)
 
 ### 📝 Problem Description
 
