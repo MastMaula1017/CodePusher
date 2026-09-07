@@ -1,6 +1,6 @@
 // Problem: 1122. Relative Sort Array
-// Runtime: 4 ms (Beats 6.14%)
-// Memory: 11 MB (Beats 85.84%)
+// Runtime: 0 ms (Beats 100.00%)
+// Memory: 11.2 MB (Beats 19.66%)
 
 class Solution {
 public:
