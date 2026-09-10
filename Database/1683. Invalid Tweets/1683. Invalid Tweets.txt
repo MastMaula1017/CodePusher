@@ -1,0 +1,8 @@
+// Problem: 1683. Invalid Tweets
+// Runtime: 964 ms (Beats 32.73%)
+// Memory: 0B (Beats 100.00%)
+
+/* Write your T-SQL query statement below */
+SELECT tweet_id
+FROM Tweets
+WHERE LEN(content) > 15;
