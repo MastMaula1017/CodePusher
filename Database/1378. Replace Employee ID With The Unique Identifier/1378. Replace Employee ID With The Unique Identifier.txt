@@ -1,0 +1,9 @@
+// Problem: 1378. Replace Employee ID With The Unique Identifier
+// Runtime: 973 ms (Beats 91.40%)
+// Memory: 0B (Beats 100.00%)
+
+/* Write your T-SQL query statement below */
+SELECT EmployeeUNI.unique_id, Employees.name
+FROM Employees
+LEFT JOIN EmployeeUNI
+ON Employees.id = EmployeeUNI.id;
