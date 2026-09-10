@@ -1,0 +1,8 @@
+// Problem: 1757. Recyclable and Low Fat Products
+// Runtime: 403 ms (Beats 88.87%)
+// Memory: 0B (Beats 100.00%)
+
+/* Write your T-SQL query statement below */
+
+select product_id from products
+where low_fats = 'Y' AND recyclable = 'Y';
