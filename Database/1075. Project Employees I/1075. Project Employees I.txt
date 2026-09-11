@@ -1,0 +1,9 @@
+// Problem: 1075. Project Employees I
+// Runtime: 1217 ms (Beats 57.14%)
+// Memory: 0B (Beats 100.00%)
+
+select p.project_id, round(avg(experience_years * 1.0),2) AS average_years
+from Project p
+join Employee e
+on p.employee_id = e.employee_id
+group by p.project_id;
