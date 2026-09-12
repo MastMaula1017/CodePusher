@@ -1,0 +1,10 @@
+// Problem: 197. Rising Temperature
+// Runtime: 503 ms (Beats 46.93%)
+// Memory: 0B (Beats 100.00%)
+
+/* Write your T-SQL query statement below */
+SELECT today.id
+FROM Weather today
+JOIN Weather yesterday
+ON DATEDIFF(day, yesterday.recordDate, today.recordDate) = 1
+WHERE today.temperature > yesterday.temperature;
