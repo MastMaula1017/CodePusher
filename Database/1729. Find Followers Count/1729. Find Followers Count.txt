@@ -1,0 +1,7 @@
+// Problem: 1729. Find Followers Count
+// Runtime: 748 ms (Beats 27.96%)
+// Memory: 0B (Beats 100.00%)
+
+select user_id,count(follower_id) AS followers_count
+from Followers
+group by user_id;
