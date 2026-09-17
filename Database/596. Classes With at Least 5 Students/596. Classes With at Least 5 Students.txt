@@ -1,0 +1,8 @@
+// Problem: 596. Classes With at Least 5 Students
+// Runtime: 561 ms (Beats 82.84%)
+// Memory: 0B (Beats 100.00%)
+
+SELECT class
+FROM Courses
+GROUP BY class
+HAVING COUNT(student) >= 5;
