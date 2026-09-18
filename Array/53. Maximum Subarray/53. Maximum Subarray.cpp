@@ -1,6 +1,6 @@
 // Problem: 53. Maximum Subarray
 // Runtime: 0 ms (Beats 100.00%)
-// Memory: 71.8 MB (Beats 52.77%)
+// Memory: 71.6 MB (Beats 81.07%)
 
 class Solution {
 public:
