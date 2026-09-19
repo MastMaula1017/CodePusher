@@ -1,6 +1,6 @@
 // Problem: 1. Two Sum
 // Runtime: 0 ms (Beats 100.00%)
-// Memory: 15 MB (Beats 12.71%)
+// Memory: 15 MB (Beats 28.84%)
 
 class Solution {
 public:
