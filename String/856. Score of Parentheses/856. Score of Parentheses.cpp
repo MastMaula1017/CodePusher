@@ -1,6 +1,6 @@
 // Problem: 856. Score of Parentheses
-// Runtime: 2 ms (Beats 4.92%)
-// Memory: 8.3 MB (Beats 21.13%)
+// Runtime: 0 ms (Beats 100.00%)
+// Memory: 8 MB (Beats 66.16%)
 
 class Solution {
 public:
@@ -20,9 +20,9 @@ public:
                 int score;
 
                 if (x == 0)
-                    score = 1;          // ()
+                    score = 1;         
                 else
-                    score = 2 * x;      // (A)
+                    score = 2 * x;     
 
                 st.top() += score;
             }
