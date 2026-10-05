@@ -4,8 +4,8 @@
 **Topics:** `String`, `Stack`, `Bracket Sequences`
 
 ### 🚀 Performance
-- **Runtime:** `2 ms` (Beats `4.92%` of users)
-- **Memory:** `8.3 MB` (Beats `21.13%` of users)
+- **Runtime:** `0 ms` (Beats `100.00%` of users)
+- **Memory:** `8 MB` (Beats `66.16%` of users)
 
 ### 📝 Problem Description
 
