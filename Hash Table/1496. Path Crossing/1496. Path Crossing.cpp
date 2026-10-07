@@ -1,6 +1,6 @@
 // Problem: 1496. Path Crossing
 // Runtime: 0 ms (Beats 100.00%)
-// Memory: 10.8 MB (Beats 23.14%)
+// Memory: 10.9 MB (Beats 14.05%)
 
 class Solution {
 public:
