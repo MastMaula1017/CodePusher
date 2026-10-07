@@ -4,8 +4,8 @@
 **Topics:** `Array`, `Two Pointers`, `Greedy`, `Sorting`, `Timsort`
 
 ### 🚀 Performance
-- **Runtime:** `15 ms` (Beats `72.99%` of users)
-- **Memory:** `45.7 MB` (Beats `96.37%` of users)
+- **Runtime:** `19 ms` (Beats `48.88%` of users)
+- **Memory:** `45.9 MB` (Beats `5.27%` of users)
 
 ### 📝 Problem Description
 
