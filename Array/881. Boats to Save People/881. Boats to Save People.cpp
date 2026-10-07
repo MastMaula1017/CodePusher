@@ -1,6 +1,6 @@
 // Problem: 881. Boats to Save People
-// Runtime: 18 ms (Beats 53.86%)
-// Memory: 45.9 MB (Beats 5.27%)
+// Runtime: 15 ms (Beats 72.99%)
+// Memory: 45.7 MB (Beats 96.37%)
 
 class Solution {
 public:
@@ -18,13 +18,12 @@ public:
             {
                 i++;
                 j--;
-                boats++;
             }
             else
             {
                 j--;
-                boats++;
             }
+             boats++;
         }
         return boats;
     }
