@@ -1,6 +1,6 @@
 // Problem: 206. Reverse Linked List
 // Runtime: 0 ms (Beats 100.00%)
-// Memory: 13.4 MB (Beats 71.94%)
+// Memory: 13.3 MB (Beats 92.39%)
 
 /**
  * Definition for singly-linked list.
