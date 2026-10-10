@@ -1,6 +1,6 @@
 // Problem: 88. Merge Sorted Array
 // Runtime: 0 ms (Beats 100.00%)
-// Memory: 12.5 MB (Beats 40.50%)
+// Memory: 12.6 MB (Beats 19.55%)
 
 class Solution {
 public:
