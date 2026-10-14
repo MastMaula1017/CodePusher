@@ -1,11 +1,13 @@
 // Problem: 3723. Maximize Sum of Squares of Digits
-// Runtime: 669 ms (Beats 7.11%)
-// Memory: 63.3 MB (Beats 33.00%)
+// Runtime: 674 ms (Beats 7.11%)
+// Memory: 63.2 MB (Beats 35.53%)
 
 class Solution {
 public:
     string maxSumOfSquares(int num, int sum) {
-        if (sum > 9 * num) {
+        int maxSum = 9 * num;
+
+        if (sum > maxSum) {
             return "";
         }
 
