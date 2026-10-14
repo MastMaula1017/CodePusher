@@ -4,8 +4,8 @@
 **Topics:** `Math`, `Greedy`
 
 ### 🚀 Performance
-- **Runtime:** `669 ms` (Beats `7.11%` of users)
-- **Memory:** `63.3 MB` (Beats `33.00%` of users)
+- **Runtime:** `674 ms` (Beats `7.11%` of users)
+- **Memory:** `63.2 MB` (Beats `35.53%` of users)
 
 ### 📝 Problem Description
 
