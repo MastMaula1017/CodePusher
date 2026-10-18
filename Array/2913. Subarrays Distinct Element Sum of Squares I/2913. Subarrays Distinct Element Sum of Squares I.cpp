@@ -1,6 +1,6 @@
 // Problem: 2913. Subarrays Distinct Element Sum of Squares I
-// Runtime: 40 ms (Beats 50.71%)
-// Memory: 36.4 MB (Beats 46.08%)
+// Runtime: 38 ms (Beats 61.70%)
+// Memory: 36.4 MB (Beats 22.12%)
 
 class Solution {
 public:
