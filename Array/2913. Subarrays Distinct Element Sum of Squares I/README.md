@@ -4,8 +4,8 @@
 **Topics:** `Array`, `Hash Table`, `Binary Indexed Tree`, `Segment Tree`
 
 ### 🚀 Performance
-- **Runtime:** `40 ms` (Beats `50.71%` of users)
-- **Memory:** `36.4 MB` (Beats `46.08%` of users)
+- **Runtime:** `38 ms` (Beats `61.70%` of users)
+- **Memory:** `36.4 MB` (Beats `22.12%` of users)
 
 ### 📝 Problem Description
 
