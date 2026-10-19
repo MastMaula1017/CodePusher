@@ -1,6 +1,6 @@
 // Problem: 1. Two Sum
-// Runtime: 0 ms (Beats 100.00%)
-// Memory: 15 MB (Beats 28.84%)
+// Runtime: 3 ms (Beats 67.47%)
+// Memory: 14.9 MB (Beats 44.77%)
 
 class Solution {
 public:
@@ -16,9 +16,25 @@ public:
             }
 
             mp[nums[i]] = i;
-        }
-
-
+        };
+        
         return {};
     }
+
+
+void myfn() {
+    
+}
+
+void abc() {
+    
+}
+
+void greet() {
+    
+}
+
+void gsdg() {
+    
+}
 };
