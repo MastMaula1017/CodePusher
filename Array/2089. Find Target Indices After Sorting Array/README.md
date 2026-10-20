@@ -4,8 +4,8 @@
 **Topics:** `Array`, `Binary Search`, `Sorting`
 
 ### 🚀 Performance
-- **Runtime:** `1 ms` (Beats `17.13%` of users)
-- **Memory:** `15.1 MB` (Beats `86.46%` of users)
+- **Runtime:** `0 ms` (Beats `100.00%` of users)
+- **Memory:** `15.2 MB` (Beats `51.63%` of users)
 
 ### 📝 Problem Description
 
