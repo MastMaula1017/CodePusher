@@ -1,6 +1,6 @@
 // Problem: 2089. Find Target Indices After Sorting Array
-// Runtime: 1 ms (Beats 17.13%)
-// Memory: 15.1 MB (Beats 86.46%)
+// Runtime: 0 ms (Beats 100.00%)
+// Memory: 15.2 MB (Beats 51.63%)
 
 class Solution {
 public:
