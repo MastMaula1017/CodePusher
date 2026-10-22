@@ -1,6 +1,6 @@
 // Problem: 1. Two Sum
-// Runtime: 3 ms (Beats 67.47%)
-// Memory: 14.9 MB (Beats 44.77%)
+// Runtime: 2 ms (Beats 73.42%)
+// Memory: 14.9 MB (Beats 28.63%)
 
 class Solution {
 public:
@@ -11,30 +11,14 @@ public:
         for (int i = 0; i < nums.size(); i++) {
             int need = target - nums[i];
 
-            if (mp.find(need) != mp.end()) {
-                return {mp[need], i};
+            if(mp.find(need)!= mp.end())
+            {
+                return {mp[need],i};
             }
-
-            mp[nums[i]] = i;
+            mp[nums[i]]=i;
         };
         
         return {};
     }
 
-
-void myfn() {
-    
-}
-
-void abc() {
-    
-}
-
-void greet() {
-    
-}
-
-void gsdg() {
-    
-}
 };
