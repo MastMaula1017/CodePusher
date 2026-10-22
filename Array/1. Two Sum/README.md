@@ -4,8 +4,8 @@
 **Topics:** `Array`, `Hash Table`
 
 ### 🚀 Performance
-- **Runtime:** `3 ms` (Beats `67.47%` of users)
-- **Memory:** `14.9 MB` (Beats `44.77%` of users)
+- **Runtime:** `2 ms` (Beats `73.42%` of users)
+- **Memory:** `14.9 MB` (Beats `28.63%` of users)
 
 ### 📝 Problem Description
 
@@ -16,27 +16,35 @@
 <p>You can return the answer in any order.</p>
 
 <p>&nbsp;</p>
-<p><strong class="example">Example 1:</strong></p>
+<p><strong>Example 1:</strong></p>
 
-<pre>
-<strong>Input:</strong> nums = [2,7,11,15], target = 9
-<strong>Output:</strong> [0,1]
-<strong>Explanation:</strong> Because nums[0] + nums[1] == 9, we return [0, 1].
-</pre>
+<p><strong>Input:</strong> <code>nums = [2,7,11,15], target = 9</code></p>
 
-<p><strong class="example">Example 2:</strong></p>
+<p><strong>Output:</strong> <code>[0,1]</code></p>
 
-<pre>
-<strong>Input:</strong> nums = [3,2,4], target = 6
-<strong>Output:</strong> [1,2]
-</pre>
+<p><strong>Explanation:</strong></p>
 
-<p><strong class="example">Example 3:</strong></p>
+<p>The sum of <code>nums[0]</code> and <code>nums[1]</code> is <code>2 + 7 = 9</code>, which equals the target. Therefore, the indices <code>[0, 1]</code> are returned.</p>
 
-<pre>
-<strong>Input:</strong> nums = [3,3], target = 6
-<strong>Output:</strong> [0,1]
-</pre>
+<p><strong>Example 2:</strong></p>
+
+<p><strong>Input:</strong> <code>nums = [3,2,4], target = 6</code></p>
+
+<p><strong>Output:</strong> <code>[1,2]</code></p>
+
+<p><strong>Explanation:</strong></p>
+
+<p>The sum of <code>nums[1]</code> and <code>nums[2]</code> is <code>2 + 4 = 6</code>, which equals the target. Therefore, the indices <code>[1, 2]</code> are returned.</p>
+
+<p><strong>Example 3:</strong></p>
+
+<p><strong>Input:</strong> <code>nums = [3,3], target = 6</code></p>
+
+<p><strong>Output:</strong> <code>[0,1]</code></p>
+
+<p><strong>Explanation:</strong></p>
+
+<p>The sum of <code>nums[0]</code> and <code>nums[1]</code> is <code>3 + 3 = 6</code>, which equals the target. Therefore, the indices <code>[0, 1]</code> are returned.</p>
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
