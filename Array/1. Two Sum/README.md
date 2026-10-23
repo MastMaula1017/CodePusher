@@ -4,8 +4,8 @@
 **Topics:** `Array`, `Hash Table`
 
 ### 🚀 Performance
-- **Runtime:** `2 ms` (Beats `73.42%` of users)
-- **Memory:** `14.9 MB` (Beats `28.63%` of users)
+- **Runtime:** `1 ms` (Beats `79.48%` of users)
+- **Memory:** `14.8 MB` (Beats `44.55%` of users)
 
 ### 📝 Problem Description
 
