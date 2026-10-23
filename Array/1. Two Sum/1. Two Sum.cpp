@@ -1,24 +1,24 @@
 // Problem: 1. Two Sum
-// Runtime: 2 ms (Beats 73.42%)
-// Memory: 14.9 MB (Beats 28.63%)
+// Runtime: 1 ms (Beats 79.48%)
+// Memory: 14.8 MB (Beats 44.55%)
 
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
+        unordered_map<int,int> mp;
 
-        unordered_map<int, int> mp;
+        for(int i=0;i<nums.size();i++)
+        {
+            int need = target - nums[i] ;
 
-        for (int i = 0; i < nums.size(); i++) {
-            int need = target - nums[i];
-
-            if(mp.find(need)!= mp.end())
+            if(mp.find(need) != mp.end())
             {
                 return {mp[need],i};
             }
-            mp[nums[i]]=i;
-        };
-        
+
+            mp[nums[i]] = i;
+        }
+
         return {};
     }
-
 };
