@@ -1,0 +1,10 @@
+// Problem: 181. Employees Earning More Than Their Managers
+// Runtime: 477 ms (Beats 24.68%)
+// Memory: 0B (Beats 100.00%)
+
+# Write your MySQL query statement below
+select e.name as Employee
+from Employee e
+join Employee m
+on e.managerId = m.id
+where e.salary > m.salary;
