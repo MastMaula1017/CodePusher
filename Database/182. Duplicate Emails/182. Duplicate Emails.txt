@@ -1,0 +1,8 @@
+// Problem: 182. Duplicate Emails
+// Runtime: 639 ms (Beats 6.10%)
+// Memory: 0B (Beats 100.00%)
+
+SELECT email AS Email
+FROM Person
+GROUP BY email
+HAVING COUNT(*) > 1;
