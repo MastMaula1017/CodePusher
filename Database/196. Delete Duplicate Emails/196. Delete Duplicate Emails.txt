@@ -1,0 +1,9 @@
+// Problem: 196. Delete Duplicate Emails
+// Runtime: 1314 ms (Beats 5.67%)
+// Memory: 0B (Beats 100.00%)
+
+delete p1
+from Person p1
+join Person p2
+on p1.email = p2.email
+where p1.id > p2.id;
