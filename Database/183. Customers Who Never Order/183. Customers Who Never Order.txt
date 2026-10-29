@@ -1,0 +1,9 @@
+// Problem: 183. Customers Who Never Order
+// Runtime: 728 ms (Beats 21.10%)
+// Memory: 0B (Beats 100.00%)
+
+SELECT c.name AS Customers
+FROM Customers c
+LEFT JOIN Orders o
+ON c.id = o.customerId
+WHERE o.customerId IS NULL;
