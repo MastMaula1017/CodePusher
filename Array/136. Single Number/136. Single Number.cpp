@@ -1,16 +1,16 @@
 // Problem: 136. Single Number
-// Runtime: 14 ms (Beats 9.45%)
-// Memory: 23.8 MB (Beats 9.45%)
+// Runtime: 0 ms (Beats 100.00%)
+// Memory: 20.7 MB (Beats 54.97%)
 
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
-        unordered_set<int> st;
-
-        for(int i=0;i<nums.size();i++){
-            if(st.count(nums[i])) st.erase(nums[i]);
-            else st.insert(nums[i]);
+        int n= nums.size();
+        int ans=0;
+        for(int i=0;i<n;i++)
+        {
+            ans ^= nums[i];
         }
-        return *st.begin();
+        return ans;
     }
 };
