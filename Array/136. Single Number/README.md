@@ -4,8 +4,8 @@
 **Topics:** `Array`, `Bit Manipulation`
 
 ### 🚀 Performance
-- **Runtime:** `14 ms` (Beats `9.45%` of users)
-- **Memory:** `23.8 MB` (Beats `9.45%` of users)
+- **Runtime:** `0 ms` (Beats `100.00%` of users)
+- **Memory:** `20.7 MB` (Beats `54.97%` of users)
 
 ### 📝 Problem Description
 
