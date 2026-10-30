@@ -1,0 +1,8 @@
+// Problem: 511. Game Play Analysis I
+// Runtime: 607 ms (Beats 24.77%)
+// Memory: 0B (Beats 100.00%)
+
+# Write your MySQL query statement below
+select player_id, min(event_date) as first_login
+from Activity 
+group by player_id;
