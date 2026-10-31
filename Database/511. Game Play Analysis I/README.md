@@ -4,7 +4,7 @@
 **Topics:** `Database`
 
 ### 🚀 Performance
-- **Runtime:** `607 ms` (Beats `24.77%` of users)
+- **Runtime:** `518 ms` (Beats `62.56%` of users)
 - **Memory:** `0B` (Beats `100.00%` of users)
 
 ### 📝 Problem Description
