@@ -1,5 +1,5 @@
 // Problem: 511. Game Play Analysis I
-// Runtime: 607 ms (Beats 24.77%)
+// Runtime: 518 ms (Beats 62.56%)
 // Memory: 0B (Beats 100.00%)
 
 # Write your MySQL query statement below
