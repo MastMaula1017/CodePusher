@@ -1,33 +1,30 @@
 // Problem: 128. Longest Consecutive Sequence
-// Runtime: 19 ms (Beats 85.11%)
-// Memory: 60 MB (Beats 97.59%)
+// Runtime: 95 ms (Beats 23.00%)
+// Memory: 88.8 MB (Beats 66.37%)
 
 class Solution {
 public:
     int longestConsecutive(vector<int>& nums) {
-        
-        if(nums.size() ==0) return 0;
 
-        sort(nums.begin(),nums.end());
+        unordered_set<int> st(nums.begin(), nums.end());
 
-        int longest=1;
-        int current=1;
+        int longest = 0;
 
-        for(int i=1;i<nums.size();i++)
-        {
-            if(nums[i] == nums[i-1] + 1)
-            {
-                current++;
+        for(int num : st) {
+
+            if(st.find(num - 1) == st.end()) {
+
+                int current = num;
+                int count = 1;
+
+                while(st.find(current + 1) != st.end()) {
+
+                    current++;
+                    count++;
+                }
+
+                longest = max(longest, count);
             }
-            else if(nums[i] == nums[i-1])
-            {
-                continue;
-            }
-            else
-            {
-                current = 1;
-            }
-            longest=max(longest,current);
         }
 
         return longest;
