@@ -1,6 +1,6 @@
 // Problem: 128. Longest Consecutive Sequence
-// Runtime: 19 ms (Beats 84.45%)
-// Memory: 60 MB (Beats 98.28%)
+// Runtime: 19 ms (Beats 85.11%)
+// Memory: 60 MB (Beats 97.59%)
 
 class Solution {
 public:
