@@ -4,8 +4,8 @@
 **Topics:** `Array`, `Hash Table`, `Union-Find`
 
 ### 🚀 Performance
-- **Runtime:** `19 ms` (Beats `84.45%` of users)
-- **Memory:** `60 MB` (Beats `98.28%` of users)
+- **Runtime:** `19 ms` (Beats `85.11%` of users)
+- **Memory:** `60 MB` (Beats `97.59%` of users)
 
 ### 📝 Problem Description
 
