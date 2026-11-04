@@ -1,0 +1,9 @@
+// Problem: 1050. Actors and Directors Who Cooperated At Least Three Times
+// Runtime: 403 ms (Beats 53.14%)
+// Memory: 0B (Beats 100.00%)
+
+# Write your MySQL query statement below
+select actor_id,director_id 
+from ActorDirector
+GROUP BY actor_id, director_id
+HAVING COUNT(*) >= 3;
