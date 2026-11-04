@@ -1,5 +1,5 @@
 // Problem: 175. Combine Two Tables
-// Runtime: 630 ms (Beats 8.08%)
+// Runtime: 645 ms (Beats 9.11%)
 // Memory: 0B (Beats 100.00%)
 
 # Write your MySQL query statement below
