@@ -4,8 +4,8 @@
 **Topics:** `Array`, `Two Pointers`, `Binary Search`, `Sorting`
 
 ### 🚀 Performance
-- **Runtime:** `0 ms` (Beats `100.00%` of users)
-- **Memory:** `16.4 MB` (Beats `92.88%` of users)
+- **Runtime:** `2 ms` (Beats `36.58%` of users)
+- **Memory:** `16.5 MB` (Beats `74.66%` of users)
 
 ### 📝 Problem Description
 
