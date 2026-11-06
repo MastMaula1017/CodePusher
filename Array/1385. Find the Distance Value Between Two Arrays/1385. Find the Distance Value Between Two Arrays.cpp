@@ -1,6 +1,6 @@
 // Problem: 1385. Find the Distance Value Between Two Arrays
-// Runtime: 0 ms (Beats 100.00%)
-// Memory: 16.4 MB (Beats 92.88%)
+// Runtime: 2 ms (Beats 36.58%)
+// Memory: 16.5 MB (Beats 74.66%)
 
 class Solution {
 public:
