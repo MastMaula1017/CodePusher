@@ -1,6 +1,6 @@
 // Problem: 20. Valid Parentheses
 // Runtime: 0 ms (Beats 100.00%)
-// Memory: 8.9 MB (Beats 59.33%)
+// Memory: 8.7 MB (Beats 81.39%)
 
 class Solution {
 public:
