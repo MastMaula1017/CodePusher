@@ -1,6 +1,6 @@
 // Problem: 1903. Largest Odd Number in String
-// Runtime: 3 ms (Beats 31.43%)
-// Memory: 17.9 MB (Beats 37.90%)
+// Runtime: 3 ms (Beats 36.65%)
+// Memory: 17.9 MB (Beats 31.70%)
 
 class Solution {
 public:
