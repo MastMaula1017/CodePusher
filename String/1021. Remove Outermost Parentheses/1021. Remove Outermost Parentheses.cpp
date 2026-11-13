@@ -1,6 +1,6 @@
 // Problem: 1021. Remove Outermost Parentheses
 // Runtime: 0 ms (Beats 100.00%)
-// Memory: 9 MB (Beats 21.38%)
+// Memory: 9 MB (Beats 21.86%)
 
 class Solution {
 public:
