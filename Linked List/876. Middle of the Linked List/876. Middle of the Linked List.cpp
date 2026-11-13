@@ -1,6 +1,6 @@
 // Problem: 876. Middle of the Linked List
 // Runtime: 0 ms (Beats 100.00%)
-// Memory: 10 MB (Beats 24.85%)
+// Memory: 9.9 MB (Beats 88.49%)
 
 /**
  * Definition for singly-linked list.
@@ -15,13 +15,14 @@
 class Solution {
 public:
     ListNode* middleNode(ListNode* head) {
-        ListNode* slow = head;
-        ListNode* fast = head;
-        
-        while(fast!= NULL && fast->next != NULL){
-            slow=slow->next;
-            fast=fast->next->next;
+        ListNode* s=head;
+        ListNode* f=head;
+
+        while(f!=nullptr && f->next != nullptr)
+        {
+            s=s->next;
+            f=f->next->next;
         }
-        return slow;
+        return s;
     }
 };
