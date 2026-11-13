@@ -5,7 +5,7 @@
 
 ### 🚀 Performance
 - **Runtime:** `0 ms` (Beats `100.00%` of users)
-- **Memory:** `11.9 MB` (Beats `53.83%` of users)
+- **Memory:** `11.6 MB` (Beats `97.80%` of users)
 
 ### 📝 Problem Description
 
