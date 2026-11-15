@@ -4,8 +4,8 @@
 **Topics:** `Array`, `Sliding Window`, `Prefix Sum`
 
 ### 🚀 Performance
-- **Runtime:** `2 ms` (Beats `46.41%` of users)
-- **Memory:** `29.5 MB` (Beats `63.40%` of users)
+- **Runtime:** `5 ms` (Beats `13.79%` of users)
+- **Memory:** `29.3 MB` (Beats `98.78%` of users)
 
 ### 📝 Problem Description
 
