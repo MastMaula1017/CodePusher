@@ -1,6 +1,6 @@
 // Problem: 3364. Minimum Positive Sum Subarray 
-// Runtime: 2 ms (Beats 46.41%)
-// Memory: 29.5 MB (Beats 63.40%)
+// Runtime: 5 ms (Beats 13.79%)
+// Memory: 29.3 MB (Beats 98.78%)
 
 class Solution {
 public:
