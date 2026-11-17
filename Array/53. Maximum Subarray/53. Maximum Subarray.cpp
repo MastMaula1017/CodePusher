@@ -1,6 +1,6 @@
 // Problem: 53. Maximum Subarray
-// Runtime: 0 ms (Beats 100.00%)
-// Memory: 71.7 MB (Beats 45.81%)
+// Runtime: 1 ms (Beats 34.42%)
+// Memory: 71.7 MB (Beats 38.44%)
 
 class Solution {
 public:
@@ -10,6 +10,7 @@ public:
 
         for (int i = 1; i < nums.size(); i++) {
             currentSum = max(nums[i], currentSum + nums[i]);
+
             maxSum = max(maxSum, currentSum);
         }
 
