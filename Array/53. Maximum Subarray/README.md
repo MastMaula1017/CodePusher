@@ -4,8 +4,8 @@
 **Topics:** `Array`, `Divide and Conquer`, `Dynamic Programming`
 
 ### 🚀 Performance
-- **Runtime:** `1 ms` (Beats `34.42%` of users)
-- **Memory:** `71.7 MB` (Beats `38.44%` of users)
+- **Runtime:** `1 ms` (Beats `35.10%` of users)
+- **Memory:** `71.6 MB` (Beats `88.82%` of users)
 
 ### 📝 Problem Description
 
